@@ -4,3 +4,4 @@ libcublasLt.so.12 filter=lfs diff=lfs merge=lfs -text
 libcudnn_adv_infer.so.8 filter=lfs diff=lfs merge=lfs -text
 libcudnn_adv_train.so.8 filter=lfs diff=lfs merge=lfs -text
 libcudnn_cnn_infer.so.8 filter=lfs diff=lfs merge=lfs -text
+libcudnn_cnn_train.so.8 filter=lfs diff=lfs merge=lfs -text
