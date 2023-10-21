@@ -6,3 +6,4 @@ libcudnn_adv_train.so.8 filter=lfs diff=lfs merge=lfs -text
 libcudnn_cnn_infer.so.8 filter=lfs diff=lfs merge=lfs -text
 libcudnn_cnn_train.so.8 filter=lfs diff=lfs merge=lfs -text
 libcufft.so.11 filter=lfs diff=lfs merge=lfs -text
+libcusolver.so.11 filter=lfs diff=lfs merge=lfs -text
